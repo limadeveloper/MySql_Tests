@@ -1,0 +1,12 @@
+localhost
+
+https://www.mamp.info/en/
+
+mysql
+LOCAL:
+$ cd /usr/local/mysql/bin/
+$ ./mysql -u root -h localhost -p
+$ sudo /usr/local/mysql/support-files/mysql.server start
+ 
+MAMP:
+$ /Applications/MAMP/Library/bin/mysql --host=localhost -uroot -proot
